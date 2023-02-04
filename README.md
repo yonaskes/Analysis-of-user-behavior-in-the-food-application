@@ -1,6 +1,4 @@
 # Analysis-of-user-behavior-in-the-food-application
-A/A/B analysis. Analysts study the quality of an app using general data, without paying attention to whether users are participating in experiments.
-
 
 You work at a startup that sells food products. You need to investigate user behavior for the company's app.
 
